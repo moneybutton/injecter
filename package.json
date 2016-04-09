@@ -1,0 +1,11 @@
+{
+  "name": "injecter",
+  "version": "1.0.0",
+  "description": "Inject dependencies into classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan X. Charles <ryanxcharles@gmail.com>",
+  "license": "MIT"
+}
