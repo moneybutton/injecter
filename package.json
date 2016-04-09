@@ -4,8 +4,12 @@
   "description": "Inject dependencies into classes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "author": "Ryan X. Charles <ryanxcharles@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
 }
